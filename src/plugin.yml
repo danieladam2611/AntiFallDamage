@@ -1,0 +1,5 @@
+name: AntiFallDamage
+main: de.daniel.AntiFallDamageMain
+version: 1.0.0
+api: 1.0.0
+author: Daniel Adam
